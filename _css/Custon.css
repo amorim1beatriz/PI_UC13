@@ -1,0 +1,62 @@
+.nav-link:hover{
+    color: #ca1b90;
+    cursor: pointer;
+}
+.nav-link{
+    color: #ca1b90;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+.nav-items{
+    background-color: #ca1b90;
+}
+.container-fluid{
+    padding: 0;
+}
+.card{
+    text-align: justify;
+    padding: 10px;
+    margin: 10px;
+    color: #ca1b90;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+.canecas, .destaques{
+    text-align: justify;
+    padding: 0px;
+    margin: 0px;
+    color: #ca1b90;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+.navbar{
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.nav-link{
+    color: #ca1b90;
+}
+.produto{
+    text-align: justify;
+    padding: 0px;
+    margin: 0px;
+    color: #ca1b90;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-weight: bolder;
+}
+.produto-2{
+    text-align: justify;
+    padding: 0px;
+    margin: 0px;
+    color: #ca1b90;
+    font-weight: 300;
+}
+.imagem{
+    padding: 40px;
+    margin: 40px;
+}
+
+
